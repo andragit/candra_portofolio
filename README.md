@@ -1,6 +1,6 @@
 
 
-# [Bike Sales Anlaysis](https://github.com/andragit/BikeMarketAnalyze)
+# [Project 1: Bike Sales Anlaysis](https://github.com/andragit/BikeMarketAnalyze)
 ---
 ## Analyzing steps
 1. Define research objectives
