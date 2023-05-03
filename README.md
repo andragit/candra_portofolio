@@ -17,4 +17,6 @@ utilizing MSExcel for analyzing  data to determine which demographic factors are
 Once these patterns have been identified, MRTE can then create targeted marketing strategies that cater to the specific needs and preferences of different customer segments. For example, if they discover that customers in a particular age group prefer eco-friendly products, they can create marketing campaigns that emphasize the environmentally-friendly features of their products.
 
 In addition to helping MRTE create effective marketing strategies, analyzing sales by demographic factors can also provide valuable insights into the overall health of the market. By identifying which demographic factors are most strongly associated with customer purchase, MRTE can gain a better understanding of the market's strengths and weaknesses, and identify potential areas for growth.
+
+### Bike Market Sales Dashboard 
 ![](https://github.com/andragit/BikeMarketAnalyze/blob/c750a6911ead5c44c48c6784d18a6227d16a5342/bike%20market%20analyze%20dashboard.png)
