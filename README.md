@@ -26,4 +26,5 @@ In addition to helping MRTE create effective marketing strategies, analyzing sal
 ![](https://github.com/andragit/candra_portofolio/blob/main/bike%20market%20analyze%20dashboard.png)
 
 # 3
+![](https://github.com/andragit/candra_portofolio/blob/484115d77fa10ba7383d5cecef84e4b210c22d5f/bike%20market%20analyze%20dashboard.jpg)
 
