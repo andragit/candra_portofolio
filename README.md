@@ -20,3 +20,4 @@ In addition to helping MRTE create effective marketing strategies, analyzing sal
 
 ### Bike Market Sales Dashboard 
 ![](https://github.com/andragit/BikeMarketAnalyze/blob/c750a6911ead5c44c48c6784d18a6227d16a5342/bike%20market%20analyze%20dashboard.png)
+![](https://github.com/andragit/candra_portofolio/blob/main/bike%20market%20analyze%20dashboard.png)
