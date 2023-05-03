@@ -19,5 +19,11 @@ Once these patterns have been identified, MRTE can then create targeted marketin
 In addition to helping MRTE create effective marketing strategies, analyzing sales by demographic factors can also provide valuable insights into the overall health of the market. By identifying which demographic factors are most strongly associated with customer purchase, MRTE can gain a better understanding of the market's strengths and weaknesses, and identify potential areas for growth.
 
 ### Bike Market Sales Dashboard 
+# 1
 ![](https://github.com/andragit/BikeMarketAnalyze/blob/c750a6911ead5c44c48c6784d18a6227d16a5342/bike%20market%20analyze%20dashboard.png)
+
+# 2
 ![](https://github.com/andragit/candra_portofolio/blob/main/bike%20market%20analyze%20dashboard.png)
+
+# 3
+
